@@ -1,0 +1,1127 @@
+----- ALL_ERR.log -----
+
+
+----- 0000_ERR.log -----
+492t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+505t [ERR] [INFO] BspErrorState changed from N/A to INVALID_HW
+699t [ERR] [INFO] PotErrorState changed from N/A to OK
+704t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+834t [ERR] [INFO] busmonErrorState changed from N/A to OK
+836t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+836t [ERR] [INFO] BattErrorState changed from N/A to OK
+837t [ERR] [INFO] BusVErrorState changed from N/A to OK
+837t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4867t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4871t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4941t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4948t [ERR] [INFO] SSTErrorState changed from N/A to NO_CAL
+4960t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+5029t [ERR] [INFO] MicErrorState changed from N/A to OK
+5667t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5747t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+
+
+----- 0001_ERR.log -----
+186t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+188t [ERR] [INFO] BspErrorState changed from N/A to OK
+375t [ERR] [INFO] PotErrorState changed from N/A to OK
+379t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+510t [ERR] [INFO] busmonErrorState changed from N/A to OK
+512t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+512t [ERR] [INFO] BattErrorState changed from N/A to OK
+512t [ERR] [INFO] BusVErrorState changed from N/A to OK
+512t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4536t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4539t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4608t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4615t [ERR] [INFO] SSTErrorState changed from N/A to NO_CAL
+4626t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4687t [ERR] [INFO] MicErrorState changed from N/A to OK
+5320t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5406t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+
+
+----- 0002_ERR.log -----
+187t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+189t [ERR] [INFO] BspErrorState changed from N/A to OK
+376t [ERR] [INFO] PotErrorState changed from N/A to OK
+380t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+511t [ERR] [INFO] busmonErrorState changed from N/A to OK
+513t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+513t [ERR] [INFO] BattErrorState changed from N/A to OK
+513t [ERR] [INFO] BusVErrorState changed from N/A to OK
+513t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4537t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4540t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4609t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4616t [ERR] [INFO] SSTErrorState changed from N/A to NO_CAL
+4627t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4688t [ERR] [INFO] MicErrorState changed from N/A to OK
+5320t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5407t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+
+
+----- 0003_ERR.log -----
+194t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+196t [ERR] [INFO] BspErrorState changed from N/A to OK
+383t [ERR] [INFO] PotErrorState changed from N/A to OK
+387t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+518t [ERR] [INFO] busmonErrorState changed from N/A to OK
+520t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+520t [ERR] [INFO] BattErrorState changed from N/A to OK
+520t [ERR] [INFO] BusVErrorState changed from N/A to OK
+521t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4544t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4547t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4616t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4623t [ERR] [INFO] SSTErrorState changed from N/A to NO_CAL
+4634t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4695t [ERR] [INFO] MicErrorState changed from N/A to OK
+5328t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5414t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+13284t [ERR] [INFO] CellularErrorState changed from N/A to OK
+32405t [ERR] [INFO] BusIErrorState changed from OK to OVERCURRENT
+88175t [ERR] [INFO] BusIErrorState changed from OVERCURRENT to OK
+172690t [ERR] [INFO] BusIErrorState changed from OK to OVERCURRENT
+181125t [ERR] [INFO] BusIErrorState changed from OVERCURRENT to OK
+230135t [ERR] [INFO] BusIErrorState changed from OK to OVERCURRENT
+
+
+----- 0004_ERR.log -----
+190t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+192t [ERR] [INFO] BspErrorState changed from N/A to OK
+379t [ERR] [INFO] PotErrorState changed from N/A to OK
+383t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+514t [ERR] [INFO] busmonErrorState changed from N/A to OK
+516t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+516t [ERR] [INFO] BattErrorState changed from N/A to OK
+516t [ERR] [INFO] BusVErrorState changed from N/A to OK
+516t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4540t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4543t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4612t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4619t [ERR] [INFO] SSTErrorState changed from N/A to NO_CAL
+4630t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4691t [ERR] [INFO] MicErrorState changed from N/A to OK
+5323t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5410t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+13646t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0005_ERR.log -----
+186t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+188t [ERR] [INFO] BspErrorState changed from N/A to OK
+375t [ERR] [INFO] PotErrorState changed from N/A to OK
+379t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+510t [ERR] [INFO] busmonErrorState changed from N/A to OK
+512t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+512t [ERR] [INFO] BattErrorState changed from N/A to OK
+512t [ERR] [INFO] BusVErrorState changed from N/A to OK
+512t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4536t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4539t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4608t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4615t [ERR] [INFO] SSTErrorState changed from N/A to NO_CAL
+4626t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4703t [ERR] [INFO] MicErrorState changed from N/A to OK
+5335t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5422t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9659t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+13674t [ERR] [INFO] CellularErrorState changed from N/A to OK
+23963t [ERR] [INFO] BusIErrorState changed from OK to OVERCURRENT
+
+
+----- 0006_ERR.log -----
+194t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+196t [ERR] [INFO] BspErrorState changed from N/A to OK
+382t [ERR] [INFO] PotErrorState changed from N/A to OK
+386t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+517t [ERR] [INFO] busmonErrorState changed from N/A to OK
+519t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+519t [ERR] [INFO] BattErrorState changed from N/A to OK
+519t [ERR] [INFO] BusVErrorState changed from N/A to OK
+520t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4544t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4547t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4616t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4623t [ERR] [INFO] SSTErrorState changed from N/A to NO_CAL
+4634t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4698t [ERR] [INFO] MicErrorState changed from N/A to OK
+5330t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5417t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9654t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+14007t [ERR] [INFO] CellularErrorState changed from N/A to OK
+23958t [ERR] [INFO] BusIErrorState changed from OK to OVERCURRENT
+
+
+----- 0007_ERR.log -----
+464t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+466t [ERR] [INFO] BspErrorState changed from N/A to OK
+652t [ERR] [INFO] PotErrorState changed from N/A to OK
+656t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+787t [ERR] [INFO] busmonErrorState changed from N/A to OK
+789t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+789t [ERR] [INFO] BattErrorState changed from N/A to OK
+789t [ERR] [INFO] BusVErrorState changed from N/A to OK
+789t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4813t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4816t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4885t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4892t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4903t [ERR] [INFO] BaroErrorState changed from N/A to INIT_ERR
+4968t [ERR] [INFO] MicErrorState changed from N/A to OK
+5600t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5688t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9924t [ERR] [INFO] bridgeError
+
+----- 0008_ERR.log -----
+463t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+465t [ERR] [INFO] BspErrorState changed from N/A to OK
+651t [ERR] [INFO] PotErrorState changed from N/A to OK
+655t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+786t [ERR] [INFO] busmonErrorState changed from N/A to OK
+788t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+788t [ERR] [INFO] BattErrorState changed from N/A to NO_BATTERY
+788t [ERR] [INFO] BusVErrorState changed from N/A to OK
+788t [ERR] [INFO] BusIErrorState changed from N/A to OK
+6818t [ERR] [INFO] ChargerErrorState changed from OK to CHARGE_ERR
+20390t [ERR] [INFO] ChargerErrorState changed from CHARGE_ERR to OK
+24637t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+24640t [ERR] [INFO] OrchErrorState changed from N/A to OK
+24709t [ERR] [INFO] HtuErrorState changed from N/A to OK
+24716t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+24727t [ERR] [INFO] BaroErrorState changed from N/A to INIT_ERR
+24790t [ERR] [INFO] MicErrorState changed from N/A to OK
+25305t [ERR] [INFO] BattErrorState changed from NO_BATTERY to LOW
+25423t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+25455t [ERR] [INFO] BattErrorState changed from LOW to OK
+25510t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+29747t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+33796t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0009_ERR.log -----
+188t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+190t [ERR] [INFO] BspErrorState changed from N/A to OK
+376t [ERR] [INFO] PotErrorState changed from N/A to OK
+380t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+511t [ERR] [INFO] busmonErrorState changed from N/A to OK
+513t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+513t [ERR] [INFO] BattErrorState changed from N/A to OK
+513t [ERR] [INFO] BusVErrorState changed from N/A to OK
+513t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4537t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4540t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4609t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4616t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4627t [ERR] [INFO] BaroErrorState changed from N/A to INIT_ERR
+4696t [ERR] [INFO] MicErrorState changed from N/A to OK
+5334t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5428t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9653t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+13702t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0010_ERR.log -----
+193t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+195t [ERR] [INFO] BspErrorState changed from N/A to OK
+381t [ERR] [INFO] PotErrorState changed from N/A to OK
+385t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+516t [ERR] [INFO] busmonErrorState changed from N/A to OK
+518t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+518t [ERR] [INFO] BattErrorState changed from N/A to OK
+518t [ERR] [INFO] BusVErrorState changed from N/A to OK
+518t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4542t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4545t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4614t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4621t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4632t [ERR] [INFO] BaroErrorState changed from N/A to INIT_ERR
+4703t [ERR] [INFO] MicErrorState changed from N/A to OK
+5336t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5422t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9660t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+13441t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0011_ERR.log -----
+186t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+188t [ERR] [INFO] BspErrorState changed from N/A to OK
+374t [ERR] [INFO] PotErrorState changed from N/A to OK
+378t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+509t [ERR] [INFO] busmonErrorState changed from N/A to OK
+511t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+511t [ERR] [INFO] BattErrorState changed f
+
+----- 0012_ERR.log -----
+456t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+458t [ERR] [INFO] BspErrorState changed from N/A to OK
+644t [ERR] [INFO] PotErrorState changed from N/A to OK
+648t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+779t [ERR] [INFO] busmonErrorState changed from N/A to OK
+781t [ERR] [INFO] ChargerErrorState changed from OK to FAULT
+781t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+781t [ERR] [INFO] BattErrorState changed from N/A to OK
+781t [ERR] [INFO] BusVErrorState changed from N/A to OK
+782t [ERR] [INFO] BusIErrorState changed from N/A to OK
+2480t [ERR] [INFO] ChargerErrorState changed from FAULT to OK
+3802t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3805t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3874t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3881t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+3892t [ERR] [INFO] BaroErrorState changed from N/A to INIT_ERR
+3962t [ERR] [INFO] MicErrorState changed from N/A to OK
+4594t [ERR] [INFO] IridiumErrorSta
+
+----- 0013_ERR.log -----
+447t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+449t [ERR] [INFO] BspErrorState changed from N/A to OK
+635t [ERR] [INFO] PotErrorState changed from N/A to OK
+639t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+770t [ERR] [INFO] busmonErrorState changed from N/A to OK
+772t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+772t [ERR] [INFO] BattErrorState changed from N/A to OK
+772t [ERR] [INFO] BusVErrorState changed from N/A to OK
+772t [ERR] [INFO] BusIErrorState changed from N/A to OK
+3794t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3797t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3866t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3873t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+3884t [ERR] [INFO] BaroErrorState changed from N/A to INIT_ERR
+3956t [ERR] [INFO] MicErrorState changed from N/A to OK
+4588t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+4675t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+8913t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+15462t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0014_ERR.log -----
+185t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+187t [ERR] [INFO] BspErrorState changed from N/A to OK
+373t [ERR] [INFO] PotErrorState changed from N/A to OK
+377t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+508t [ERR] [INFO] busmonErrorState changed from N/A to OK
+510t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+510t [ERR] [INFO] BattErrorState changed from N/A to OK
+510t [ERR] [INFO] BusVErrorState changed from N/A to OK
+511t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4533t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4536t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4605t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4612t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4623t [ERR] [INFO] BaroErrorState changed from N/A to INIT_ERR
+4686t [ERR] [INFO] MicErrorState changed from N/A to OK
+5319t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5405t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9643t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+13649t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0015_ERR.log -----
+186t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+188t [ERR] [INFO] BspErrorState changed from N/A to OK
+374t [ERR] [INFO] PotErrorState changed from N/A to OK
+378t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+509t [ERR] [INFO] busmonErrorState changed from N/A to OK
+511t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+511t [ERR] [INFO] BattErrorState changed f
+
+----- 0016_ERR.log -----
+446t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+448t [ERR] [INFO] BspErrorState changed from N/A to OK
+634t [ERR] [INFO] PotErrorState changed from N/A to OK
+638t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+769t [ERR] [INFO] busmonErrorState changed from N/A to OK
+771t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+771t [ERR] [INFO] BattErrorState changed from N/A to OK
+771t [ERR] [INFO] BusVErrorState changed from N/A to OK
+772t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4795t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4798t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4867t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4874t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4885t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4949t [ERR] [INFO] MicErrorState changed from N/A to OK
+5581t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5668t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9907t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+13951t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0017_ERR.log -----
+186t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+264t [ERR] [INFO] BspErrorState changed from N/A to OK
+446t [ERR] [INFO] PotErrorState changed from N/A to OK
+450t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+581t [ERR] [INFO] busmonErrorState changed from N/A to OK
+583t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+583t [ERR] [INFO] BattErrorState changed from N/A to OK
+583t [ERR] [INFO] BusVErrorState changed from N/A to OK
+583t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4606t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4608t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4677t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4683t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4694t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4754t [ERR] [INFO] MicErrorState changed from N/A to OK
+5384t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5472t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+10704t [ERR] [INFO] bridgeErrorState changed from N/A to SELF_TEST_ERR
+15611t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0018_ERR.log -----
+194t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+196t [ERR] [INFO] BspErrorState changed from N/A to OK
+376t [ERR] [INFO] PotErrorState changed from N/A to OK
+380t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+511t [ERR] [INFO] busmonErrorState changed from N/A to OK
+513t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+513t [ERR] [INFO] BattErrorState changed from N/A to OK
+513t [ERR] [INFO] BusVErrorState changed from N/A to OK
+513t [ERR] [INFO] BusIErrorState changed from N/A to OK
+
+
+----- 0019_ERR.log -----
+196t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+198t [ERR] [INFO] BspErrorState changed from N/A to OK
+378t [ERR] [INFO] PotErrorState changed from N/A to OK
+382t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+513t [ERR] [INFO] busmonErrorState changed from N/A to OK
+515t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+515t [ERR] [INFO] BattErrorState changed from N/A to OK
+515t [ERR] [INFO] BusVErrorState changed from N/A to OK
+515t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4539t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4541t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4610t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4616t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4627t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+4686t [ERR] [INFO] MicErrorState changed from N/A to OK
+5315t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5404t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+12494t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0020_ERR.log -----
+186t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+188t [ERR] [INFO] BspErrorState changed from N/A to OK
+368t [ERR] [INFO] PotErrorState changed from N/A to OK
+372t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+503t [ERR] [INFO] busmonErrorState changed from N/A to OK
+505t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+505t [ERR] [INFO] BattErrorState changed from N/A to OK
+505t [ERR] [INFO] BusVErrorState changed from N/A to OK
+505t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4529t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4531t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4600t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4606t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4617t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+5315t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5343t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+15268t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0021_ERR.log -----
+185t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+187t [ERR] [INFO] BspErrorState changed from N/A to OK
+367t [ERR] [INFO] PotErrorState changed from N/A to OK
+371t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+501t [ERR] [INFO] busmonErrorState changed from N/A to OK
+503t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+503t [ERR] [INFO] BattErrorState changed from N/A to OK
+503t [ERR] [INFO] BusVErrorState changed from N/A to OK
+503t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4528t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4531t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4599t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4605t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4616t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+5308t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5360t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+12628t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0022_ERR.log -----
+187t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+189t [ERR] [INFO] BspErrorState changed from N/A to OK
+369t [ERR] [INFO] PotErrorState changed from N/A to OK
+373t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+504t [ERR] [INFO] busmonErrorState changed from N/A to OK
+506t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+506t [ERR] [INFO] BattErrorState changed from N/A to OK
+506t [ERR] [INFO] BusVErrorState changed from N/A to OK
+506t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4529t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4531t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4600t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4606t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4617t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+5313t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+12557t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0023_ERR.log -----
+194t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+196t [ERR] [INFO] BspErrorState changed from N/A to OK
+376t [ERR] [INFO] PotErrorState changed from N/A to OK
+380t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+510t [ERR] [INFO] busmonErrorState changed from N/A to OK
+512t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+512t [ERR] [INFO] BattErrorState changed from N/A to OK
+512t [ERR] [INFO] BusVErrorState changed from N/A to OK
+512t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4536t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4539t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4608t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4614t [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+4625t [ERR] [INFO] BaroErrorState changed from N/A to INVALID_CAL
+
+
+----- 0024_ERR.log -----
+2023-12-11T19:52:07.234Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+
+
+----- 0025_ERR.log -----
+2023-12-11T19:52:13.187Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2023-12-11T19:52:13.187Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2023-12-11T19:52:13.367Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2023-12-11T19:52:13.371Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2023-12-11T19:52:13.503Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2023-12-11T19:52:13.503Z [ERR] [INFO] SolarErrorState changed from N/A to LOW
+2023-12-11T19:52:13.503Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2023-12-11T19:52:13.503Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2023-12-11T19:52:13.503Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2023-12-11T19:52:17.527Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2023-12-11T19:52:17.531Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2023-12-11T19:52:17.597Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2023-12-11T19:52:17.605Z [ERR] [INFO] SSTErrorState changed from N/A to INIT_ERR
+2023-12-11T19:52:17.617Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2023-12-11T19:52:18.312Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2023-12-11T19:52:26.539Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0026_ERR.log -----
+2023-12-11T19:55:33.191Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2023-12-11T19:55:33.191Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2023-12-11T19:55:33.375Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2023-12-11T19:55:33.378Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2023-12-11T19:55:33.507Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2023-12-11T19:55:33.511Z [ERR] [INFO] SolarErrorState changed from N/A to LOW
+2023-12-11T19:55:33.511Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2023-12-11T19:55:33.511Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2023-12-11T19:55:33.511Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2023-12-11T19:55:37.535Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2023-12-11T19:55:37.535Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2023-12-11T19:55:37.605Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2023-12-11T19:55:37.617Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2023-12-11T19:55:38.308Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2023-12-11T19:55:45.402Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0027_ERR.log -----
+2023-12-11T19:55:50.183Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2023-12-11T19:55:50.183Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2023-12-11T19:55:50.363Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2023-12-11T19:55:50.371Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2023-12-11T19:55:50.500Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2023-12-11T19:55:50.500Z [ERR] [INFO] SolarErrorState changed from N/A to LOW
+2023-12-11T19:55:50.503Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2023-12-11T19:55:50.503Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2023-12-11T19:55:50.503Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2023-12-11T19:56:03.593Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2023-12-11T19:56:03.593Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2023-12-11T19:56:03.664Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2023-12-11T19:56:03.671Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2023-12-11T19:56:04.367Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2023-12-11T19:56:11.386Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0028_ERR.log -----
+2023-12-11T19:56:28.187Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2023-12-11T19:56:28.187Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2023-12-11T19:56:28.367Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2023-12-11T19:56:28.375Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2023-12-11T19:56:28.503Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2023-12-11T19:56:28.507Z [ERR] [INFO] SolarErrorState changed from N/A to LOW
+2023-12-11T19:56:28.507Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2023-12-11T19:56:28.507Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2023-12-11T19:56:28.507Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2023-12-11T19:56:32.531Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2023-12-11T19:56:32.531Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2023-12-11T19:56:32.601Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2023-12-11T19:56:32.609Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2023-12-11T19:56:33.304Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2023-12-11T19:56:40.417Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0000_ERR.log -----
+487t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+489t [ERR] [INFO] BspErrorState changed from N/A to OK
+675t [ERR] [INFO] PotErrorState changed from N/A to OK
+679t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+810t [ERR] [INFO] busmonErrorState changed from N/A to OK
+812t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+812t [ERR] [INFO] BattErrorState changed from N/A to OK
+812t [ERR] [INFO] BusVErrorState changed from N/A to OK
+812t [ERR] [INFO] BusIErrorState changed from N/A to OK
+3835t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3839t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3908t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3919t [ERR] [INFO] BaroErrorState changed from N/A to OK
+4646t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+4673t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+8969t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+15073t [ERR] [INFO] CellularErrorState changed from N/A to OK
+29503t [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+
+
+----- 0001_ERR.log -----
+2023-12-12T02:46:31.035Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2023-12-12T02:46:31.039Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2023-12-12T02:46:38.890Z [ERR] [INFO] GpsErrorState changed from OK to NO_SIGNAL
+2023-12-12T02:46:51.679Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2023-12-12T02:46:56.089Z [ERR] [INFO] GpsErrorState changed from OK to NO_SIGNAL
+2023-12-12T02:47:01.277Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2023-12-12T02:51:02.906Z [ERR] [INFO] GpsErrorState changed from OK to NO_SIGNAL
+2023-12-12T02:51:17.292Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2023-12-12T02:51:17.707Z [ERR] [INFO] GpsErrorState changed from OK to NO_SIGNAL
+2023-12-12T02:51:20.492Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2023-12-12T02:56:31.726Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T03:07:10.363Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T03:17:12.664Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T03:20:01.023Z [ERR] [INFO] OrchErrorState changed from SCHEDULE_SAMPLE_ALIGNMENT to OK
+2023-12-12T03:28:10.808Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T03:38:12.867Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T03:49:10.683Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T03:59:13.449Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T04:10:10.324Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T04:21:00.945Z [ERR] [INFO] CellularErrorState changed from OK to MISC_ERR
+2023-12-12T04:21:00.945Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T04:24:13.496Z [ERR] [INFO] CellularErrorState changed from MISC_ERR to OK
+2023-12-12T04:34:10.921Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T04:44:14.984Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T04:55:10.585Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T05:06:10.945Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T06:17:11.085Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T06:27:16.062Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T08:50:02.355Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T09:00:06.050Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T13:04:03.675Z [ERR] [INFO] Cellular SignalErrorState changed from NO_CONNECTION to CONNECTING
+2023-12-12T13:04:08.875Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2023-12-12T13:04:08.875Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+2023-12-12T16:37:30.417Z [ERR] [INFO] SolarErrorState changed from LOW to OK
+
+
+----- 0002_ERR.log -----
+2023-12-12T19:39:08.460Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2023-12-12T19:39:08.460Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2023-12-12T19:39:08.648Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2023-12-12T19:39:08.652Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2023-12-12T19:39:08.785Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2023-12-12T19:39:08.785Z [ERR] [INFO] SolarErrorState changed from N/A to LOW
+2023-12-12T19:39:08.785Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2023-12-12T19:39:08.785Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2023-12-12T19:39:08.785Z [
+
+----- 0000_ERR.log -----
+475t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+477t [ERR] [INFO] BspErrorState changed from N/A to OK
+663t [ERR] [INFO] PotErrorState changed from N/A to OK
+667t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+798t [ERR] [INFO] busmonErrorState changed from N/A to OK
+800t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+800t [ERR] [INFO] BattErrorState changed f
+
+----- 0000_ERR.log -----
+2023-12-11T19:56:52.476Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2023-12-11T19:56:52.476Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2023-12-11T19:56:52.656Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2023-12-11T19:56:52.660Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2023-12-11T19:56:52.792Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2023-12-11T19:56:52.792Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2023-12-11T19:56:52.792Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2023-12-11T19:56:52.792Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2023-12-11T19:56:52.792Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2023-12-11T19:56:55.820Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2023-12-11T19:56:55.824Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2023-12-11T19:56:55.890Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2023-12-11T19:56:55.902Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2023-12-11T19:56:56.597Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2023-12-11T19:57:03.699Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2023-12-11T19:57:47.972Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+
+
+----- 0001_ERR.log -----
+2023-12-11T21:05:31.035Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2023-12-11T21:06:21.753Z [ERR] [INFO] GpsErrorState changed from OK to NO_SIGNAL
+2023-12-11T21:06:23.335Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2023-12-11T21:40:00.664Z [ERR] [INFO] OrchErrorState changed from SCHEDULE_SAMPLE_ALIGNMENT to OK
+
+
+----- 0000_ERR.log -----
+2023-12-11T22:50:52.480Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2023-12-11T22:50:52.484Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2023-12-11T22:50:52.664Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2023-12-11T22:50:52.667Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2023-12-11T22:50:52.800Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2023-12-11T22:50:52.800Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2023-12-11T22:50:52.800Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2023-12-11T22:50:52.800Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2023-12-11T22:50:52.800Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2023-12-11T22:50:55.886Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2023-12-11T22:50:55.890Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2023-12-11T22:50:55.957Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2023-12-11T22:50:55.968Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2023-12-11T22:50:56.667Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2023-12-11T22:50:56.695Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2023-12-11T22:51:03.703Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2023-12-11T22:51:15.328Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+
+
+----- 0001_ERR.log -----
+2023-12-11T23:10:01.031Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2023-12-11T23:10:01.035Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2023-12-11T23:10:43.250Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to OK
+2023-12-11T23:10:43.261Z [ERR] [INFO] Cellular SignalErrorState changed from OK to CONNECTING
+2023-12-11T23:10:48.574Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to OK
+2023-12-11T23:45:01.007Z [ERR] [INFO] OrchErrorState changed from SCHEDULE_SAMPLE_ALIGNMENT to OK
+2023-12-12T00:09:40.917Z [ERR] [INFO] Cellular SignalErrorState changed from OK to CONNECTING
+2023-12-12T00:10:06.601Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to OK
+2023-12-12T00:15:01.363Z [ERR] [INFO] Cellular SignalErrorState changed from OK to CONNECTING
+2023-12-12T00:15:27.105Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to OK
+2023-12-12T00:31:05.542Z [ERR] [INFO] SolarErrorState changed from OK to LOW
+
+
+----- 0002_ERR.log -----
+443t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+445t [ERR] [INFO] BspErrorState changed from N/A to OK
+625t [ERR] [INFO] PotErrorState changed from N/A to OK
+629t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+759t [ERR] [INFO] busmonErrorState changed from N/A to OK
+761t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+761t [ERR] [INFO] BattErrorState changed f
+
+----- 0000_ERR.log -----
+475t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+477t [ERR] [INFO] BspErrorState changed from N/A to OK
+663t [ERR] [INFO] PotErrorState changed from N/A to OK
+667t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+798t [ERR] [INFO] busmonErrorState changed from N/A to OK
+800t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+800t [ERR] [INFO] BattErrorState changed from N/A to OK
+800t [ERR] [INFO] BusVErrorState changed from N/A to OK
+800t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4825t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4828t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4897t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4908t [ERR] [INFO] BaroErrorState changed from N/A to OK
+5627t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5654t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9950t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+16900t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0001_ERR.log -----
+185t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+187t [ERR] [INFO] BspErrorState changed from N/A to OK
+373t [ERR] [INFO] PotErrorState changed from N/A to OK
+377t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+508t [ERR] [INFO] busmonErrorState changed from N/A to OK
+510t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+510t [ERR] [INFO] BattErrorState changed f
+
+----- 0002_ERR.log -----
+463t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+465t [ERR] [INFO] BspErrorState changed from N/A to OK
+651t [ERR] [INFO] PotErrorState changed from N/A to OK
+655t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+786t [ERR] [INFO] busmonErrorState changed from N/A to OK
+788t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+788t [ERR] [INFO] BattErrorState changed from N/A to OK
+788t [ERR] [INFO] BusVErrorState changed from N/A to OK
+788t [ERR] [INFO] BusIErrorState changed from N/A to OK
+9557238t [ERR] [INFO] ChargerErrorState changed from OK to CHARGE_ERR
+
+
+----- 0003_ERR.log -----
+451t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+453t [ERR] [INFO] BspErrorState changed from N/A to OK
+639t [ERR] [INFO] PotErrorState changed from N/A to OK
+643t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+774t [ERR] [INFO] busmonErrorState changed from N/A to OK
+776t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+776t [ERR] [INFO] BattErrorState changed from N/A to OK
+776t [ERR] [INFO] BusVErrorState changed from N/A to OK
+776t [ERR] [INFO] BusIErrorState changed from N/A to OK
+3799t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3802t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3871t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3882t [ERR] [INFO] BaroErrorState changed from N/A to OK
+4587t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+4614t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+8910t [ERR] [INFO] bridgeE
+
+----- 0004_ERR.log -----
+466t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+468t [ERR] [INFO] BspErrorState changed from N/A to OK
+654t [ERR] [INFO] PotErrorState changed from N/A to OK
+658t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+789t [ERR] [INFO] busmonErrorState changed from N/A to OK
+791t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+791t [ERR] [INFO] BattErrorState changed from N/A to OK
+791t [ERR] [INFO] BusVErrorState changed from N/A to OK
+791t [ERR] [INFO] BusIErrorState changed from N/A to OK
+3811t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3814t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3883t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3894t [ERR] [INFO] BaroErrorState changed from N/A to OK
+4600t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+4627t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+8922t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+13575t [ERR] [INFO] CellularErrorState changed from N/A to OK
+636638t [ERR] [INFO] SolarErrorState changed from LOW to OK
+667547t [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+
+
+----- 0005_ERR.log -----
+2024-02-13T14:07:19.035Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2024-02-13T14:07:19.039Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:07:51.589Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:07:51.589Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+
+----- 0006_ERR.log -----
+2024-02-13T14:18:52.191Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:18:52.195Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:18:52.382Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:18:52.386Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:18:52.515Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:18:52.519Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:18:52.519Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:18:52.519Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:18:52.519Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:18:55.613Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:18:55.617Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:18:55.687Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:18:55.699Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:18:55.757Z [ERR] [INFO] MicErrorState changed from N/A to OK
+2024-02-13T14:18:56.398Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:18:56.476Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+
+
+----- 0007_ERR.log -----
+2024-02-13T14:19:04.183Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:19:04.187Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:19:04.375Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:19:04.378Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:19:04.507Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:19:04.511Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:19:04.511Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:19:04.511Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:19:04.511Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:19:07.605Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:19:07.609Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:19:07.679Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:19:07.691Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:19:08.398Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:19:08.421Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2024-02-13T14:19:12.714Z [ERR] [INFO] bridgeErrorState changed from N/A to OK
+2024-02-13T14:19:21.906Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2024-02-13T14:19:47.414Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2024-02-13T14:19:47.449Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2024-02-13T14:19:47.453Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:19:52.796Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:19:52.796Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+
+----- 0008_ERR.log -----
+2024-02-13T14:20:26.195Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:20:26.199Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:20:26.382Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:20:26.386Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:20:26.519Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:20:26.519Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:20:26.519Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:20:26.519Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:20:26.519Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:20:29.550Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:20:29.550Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:20:29.621Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:20:29.632Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:20:29.695Z [ERR] [INFO] MicErrorState changed from N/A to OK
+2024-02-13T14:20:30.328Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:20:30.410Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2024-02-13T14:20:40.089Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2024-02-13T14:20:59.867Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2024-02-13T14:20:59.902Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:21:05.093Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:21:05.093Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+
+----- 0009_ERR.log -----
+2024-02-13T14:21:17.195Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:21:17.199Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:21:17.382Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:21:17.386Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:21:17.519Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:21:17.519Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:21:17.519Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:21:17.519Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:21:17.519Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:21:20.617Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:21:20.617Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:21:20.687Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:21:20.699Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:21:21.406Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:21:21.433Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2024-02-13T14:21:25.726Z [ERR] [INFO] bridgeErrorState changed from N/A to OK
+2024-02-13T14:21:31.128Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2024-02-13T14:21:53.023Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2024-02-13T14:21:53.058Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2024-02-13T14:21:53.062Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:22:00.808Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:22:00.808Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+
+----- 0010_ERR.log -----
+2024-02-13T14:23:40.187Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:23:40.187Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:23:40.375Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:23:40.378Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:23:40.507Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:23:40.511Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:23:40.511Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:23:40.511Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:23:40.511Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:23:43.542Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:23:43.546Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:23:43.617Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:23:43.625Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:23:43.687Z [ERR] [INFO] MicErrorState changed from N/A to OK
+2024-02-13T14:23:44.328Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:23:44.406Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2024-02-13T14:23:54.113Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2024-02-13T14:24:15.941Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2024-02-13T14:24:19.031Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:24:24.218Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:24:24.218Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+
+----- 0011_ERR.log -----
+2024-02-13T14:41:12.460Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:41:12.464Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:41:12.648Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:41:12.656Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:41:12.785Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:41:12.785Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:41:12.789Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:41:12.789Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:41:12.789Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:41:15.820Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:41:15.820Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:41:15.890Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:41:15.902Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:41:15.960Z [ERR] [INFO] MicErrorState changed from N/A to OK
+2024-02-13T14:41:16.597Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:41:16.679Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2024-02-13T14:41:26.480Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2024-02-13T14:41:45.617Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2024-02-13T14:42:01.031Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:42:06.242Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:42:06.242Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+
+----- 0012_ERR.log -----
+2024-02-13T14:42:28.187Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:42:28.191Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:42:28.375Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:42:28.378Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:42:28.511Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:42:28.511Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:42:28.511Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:42:28.511Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:42:28.511Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:42:31.621Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:42:31.625Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:42:31.691Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:42:31.703Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:42:32.410Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:42:32.437Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2024-02-13T14:42:36.734Z [ERR] [INFO] bridgeErrorState changed from N/A to OK
+2024-02-13T14:42:43.656Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2024-02-13T14:43:00.820Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2024-02-13T14:43:00.859Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2024-02-13T14:43:00.863Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:43:06.062Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:43:06.062Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+----- 0013_ERR.log -----
+2024-02-13T14:43:18.441Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:43:18.445Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:43:18.632Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:43:18.636Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:43:18.765Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:43:18.769Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:43:18.769Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:43:18.769Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:43:18.769Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:43:21.863Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:43:21.867Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:43:21.937Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:43:21.949Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:43:22.656Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:43:22.683Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2024-02-13T14:43:26.976Z [ERR] [INFO] bridgeErrorState changed from N/A to OK
+2024-02-13T14:43:32.359Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2024-02-13T14:43:52.449Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2024-02-13T14:43:52.484Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2024-02-13T14:43:52.488Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:43:57.699Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:43:57.699Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+
+----- 0014_ERR.log -----
+2024-02-13T14:46:56.449Z [ERR] [INFO] IoExpErrorState changed from N/A to OK
+2024-02-13T14:46:56.453Z [ERR] [INFO] BspErrorState changed from N/A to OK
+2024-02-13T14:46:56.636Z [ERR] [INFO] PotErrorState changed from N/A to OK
+2024-02-13T14:46:56.640Z [ERR] [INFO] ChargerErrorState changed from N/A to OK
+2024-02-13T14:46:56.773Z [ERR] [INFO] busmonErrorState changed from N/A to OK
+2024-02-13T14:46:56.773Z [ERR] [INFO] SolarErrorState changed from N/A to OK
+2024-02-13T14:46:56.773Z [ERR] [INFO] BattErrorState changed from N/A to OK
+2024-02-13T14:46:56.777Z [ERR] [INFO] BusVErrorState changed from N/A to OK
+2024-02-13T14:46:56.777Z [ERR] [INFO] BusIErrorState changed from N/A to OK
+2024-02-13T14:46:59.875Z [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+2024-02-13T14:46:59.878Z [ERR] [INFO] OrchErrorState changed from N/A to OK
+2024-02-13T14:46:59.945Z [ERR] [INFO] HtuErrorState changed from N/A to OK
+2024-02-13T14:46:59.957Z [ERR] [INFO] BaroErrorState changed from N/A to OK
+2024-02-13T14:47:00.664Z [ERR] [INFO] IridiumErrorState changed from N/A to OK
+2024-02-13T14:47:00.691Z [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+2024-02-13T14:47:04.984Z [ERR] [INFO] bridgeErrorState changed from N/A to OK
+2024-02-13T14:47:10.535Z [ERR] [INFO] CellularErrorState changed from N/A to OK
+2024-02-13T14:47:30.175Z [ERR] [INFO] GpsErrorState changed from NO_SIGNAL to OK
+2024-02-13T14:47:49.035Z [ERR] [INFO] OrchErrorState changed from OK to SCHEDULE_SAMPLE_ALIGNMENT
+2024-02-13T14:47:49.039Z [ERR] [INFO] Cellular SignalErrorState changed from N/A to CONNECTING
+2024-02-13T14:47:54.253Z [ERR] [INFO] CellularErrorState changed from OK to CELL_MEMORY_FULL
+2024-02-13T14:47:54.253Z [ERR] [INFO] Cellular SignalErrorState changed from CONNECTING to NO_CONNECTION
+
+
+----- 0015_ERR.log -----
+452t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+454t [ERR] [INFO] BspErrorState changed from N/A to OK
+640t [ERR] [INFO] PotErrorState changed from N/A to OK
+644t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+775t [ERR] [INFO] busmonErrorState changed from N/A to OK
+777t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+777t [ERR] [INFO] BattErrorState changed from N/A to OK
+777t [ERR] [INFO] BusVErrorState changed from N/A to OK
+777t [ERR] [INFO] BusIErrorState changed from N/A to OK
+3799t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3802t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3872t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3883t [ERR] [INFO] BaroErrorState changed from N/A to OK
+4594t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+4633t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+8914t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+14450t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0016_ERR.log -----
+197t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+199t [ERR] [INFO] BspErrorState changed from N/A to OK
+385t [ERR] [INFO] PotErrorState changed from N/A to OK
+389t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+520t [ERR] [INFO] busmonErrorState changed from N/A to OK
+522t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+522t [ERR] [INFO] BattErrorState changed from N/A to OK
+522t [ERR] [INFO] BusVErrorState changed from N/A to OK
+522t [ERR] [INFO] BusIErrorState changed from N/A to OK
+4547t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+4550t [ERR] [INFO] OrchErrorState changed from N/A to OK
+4619t [ERR] [INFO] HtuErrorState changed from N/A to OK
+4630t [ERR] [INFO] BaroErrorState changed from N/A to OK
+5338t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+5377t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+9661t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+15103t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0017_ERR.log -----
+185t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+187t [ERR] [INFO] BspErrorState changed from N/A to OK
+373t [ERR] [INFO] PotErrorState changed from N/A to OK
+377t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+508t [ERR] [INFO] busmonErrorState changed from N/A to OK
+510t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+510t [ERR] [INFO] BattErrorState changed from N/A to OK
+510t [ERR] [INFO] BusVErrorState changed from N/A to OK
+510t [ERR] [INFO] BusIErrorState changed from N/A to OK
+3533t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3536t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3605t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3616t [ERR] [INFO] BaroErrorState changed from N/A to OK
+4326t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+4352t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+8648t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+14379t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0018_ERR.log -----
+450t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+452t [ERR] [INFO] BspErrorState changed from N/A to OK
+638t [ERR] [INFO] PotErrorState changed from N/A to OK
+642t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+773t [ERR] [INFO] busmonErrorState changed from N/A to OK
+775t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+775t [ERR] [INFO] BattErrorState changed from N/A to OK
+775t [ERR] [INFO] BusVErrorState changed from N/A to OK
+775t [ERR] [INFO] BusIErrorState changed from N/A to OK
+3796t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3799t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3868t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3879t [ERR] [INFO] BaroErrorState changed from N/A to OK
+4589t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+4615t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+8910t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+14796t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0019_ERR.log -----
+187t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+189t [ERR] [INFO] BspErrorState changed from N/A to OK
+375t [ERR] [INFO] PotErrorState changed from N/A to OK
+379t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+510t [ERR] [INFO] busmonErrorState changed from N/A to OK
+512t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+512t [ERR] [INFO] BattErrorState changed f
+
+----- 0020_ERR.log -----
+460t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+462t [ERR] [INFO] BspErrorState changed from N/A to OK
+648t [ERR] [INFO] PotErrorState changed from N/A to OK
+652t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+783t [ERR] [INFO] busmonErrorState changed from N/A to OK
+785t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+785t [ERR] [INFO] BattErrorState changed from N/A to OK
+785t [ERR] [INFO] BusVErrorState changed from N/A to OK
+785t [ERR] [INFO] BusIErrorState changed from N/A to OK
+3807t [ERR] [INFO] GpsErrorState changed from N/A to NO_SIGNAL
+3810t [ERR] [INFO] OrchErrorState changed from N/A to OK
+3879t [ERR] [INFO] HtuErrorState changed from N/A to OK
+3890t [ERR] [INFO] BaroErrorState changed from N/A to OK
+4604t [ERR] [INFO] IridiumErrorState changed from N/A to OK
+4631t [ERR] [INFO] Visibility LEDErrorState changed from N/A to OK
+8926t [ERR] [INFO] bridgeErrorState changed from N/A to OK
+14552t [ERR] [INFO] CellularErrorState changed from N/A to OK
+
+
+----- 0021_ERR.log -----
+186t [ERR] [INFO] IoExpErrorState changed from N/A to OK
+188t [ERR] [INFO] BspErrorState changed from N/A to OK
+374t [ERR] [INFO] PotErrorState changed from N/A to OK
+378t [ERR] [INFO] ChargerErrorState changed from N/A to OK
+509t [ERR] [INFO] busmonErrorState changed from N/A to OK
+511t [ERR] [INFO] SolarErrorState changed from N/A to LOW
+511t [ERR] [INFO] BattErrorState changed f
+

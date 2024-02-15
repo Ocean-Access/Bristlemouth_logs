@@ -1,0 +1,507 @@
+
+
+----- .store.db -----
+# 9K   HWCFG:   * hwYB: 12 `deviceP
+ : SPOT-31489C  hasBridge: 1 b  HardwareN   hasSST: 0 FBaro=  aroOffsetPa: -104(  	baroSignature: 381895954 0Cal  :  	b325848<  hasCell K D   m+ H9ERR  
+   7487t [ERR oExpErrorState changed from N/A to OK  ; /Bs9 ;6759 ?Pot9 r Charger= ;810= obusmon< 2< C     A   e [ U#2  9SYS  
+
+
+----- psid.db -----
+ 0000_ERR.log   k   h       
+ 0001_ERR.log       h       
+ 0000_ERR.log   l   h       
+ 0001_ERR.log       h       
+ 0000_ERR.log               
+ 0001_ERR.log               
+ 0002_ERR.log                index                   .Spotlight-V100              
+ .fseventsd                index               
+ 0000_ERR.log               
+ 0001_ERR.log               
+ 0002_ERR.log      
+ 0000_ERR.log               
+ 0001_ERR.log       
+ 0002_ERR.log               
+ 0000_ERR.log               
+ 0001_ERR.log               
+ 0002_ERR.log               
+
+
+----- store.db -----
+# 9K   HWCFG:   * hwYB: 12 `deviceP
+ : SPOT-31489C  hasBridge: 1 b  HardwareN   hasSST: 0 FBaro=  aroOffsetPa: -104(  	baroSignature: 381895954 0Cal  :  	b325848<  hasCell K D   m+ H9ERR  
+   7487t [ERR oExpErrorState changed from N/A to OK  ; /Bs9 ;6759 ?Pot9 r Charger= ;810= obusmon< 2< C     A   e [ U#2  9SYS  
+
+
+----- 0000_CFG.log -----
+498t [CFG] [ERROR] Invalid syscfg sha 00010000 4861FA73
+498t [CFG] [ERROR] Unable to read config. Setting defaults and writing.
+504t [CFG] [ERROR] Could not find valid CFG file to revert back to504t [CFG] [INFO] HWCFG: 
+
+
+----- 0000_SYS.log -----
+494t [SYS] [ERROR] Invalid CRC 2210220 5068
+505t [SYS] [ERROR] BSP HW_VERSION: 12  and expected hwVersion: 0 mismatch!
+
+
+----- 0000_TASK.csv -----
+539t,errorManager,Blocked,30,30,389
+
+
+----- 0001_TASK.csv -----
+213t,errorManager,Blocked,30,30,389
+
+
+----- 0002_TASK.csv -----
+214t,errorManager,Blocked,30,30,389
+
+
+----- 0003_TASK.csv -----
+221t,errorManager,Blocked,30,30,389
+
+
+----- 0004_TASK.csv -----
+217t,errorManager,Blocked,30,30,389
+
+
+----- 0005_TASK.csv -----
+213t,errorManager,Blocked,30,30,389
+
+
+----- 0006_TASK.csv -----
+221t,errorManager,Blocked,30,30,389
+
+
+----- 0007_SYS.log -----
+4892t [SYS] [INFO] Error initializing SST
+4903t [SYS] [INFO] Error initializing BARO
+
+
+----- 0007_TASK.csv -----
+491t,errorManager,Blocked,30,30,389
+
+
+----- 0008_SYS.log -----
+24716t [SYS] [INFO] Error initializing SST
+24727t [SYS] [INFO] Error initializing BARO
+54639t [SYS] [ERROR] rebootctl reset 1. Source: 6
+
+
+----- 0008_TASK.csv -----
+490t,errorManager,Blocked,30,30,389
+
+
+----- 0009_SYS.log -----
+4616t [SYS] [INFO] Error initializing SST
+4627t [SYS] [INFO] Error initializing BARO
+34539t [SYS] [ERROR] rebootctl reset 1. Source: 7
+
+
+----- 0009_TASK.csv -----
+215t,errorManager,Blocked,30,30,389
+
+
+----- 0010_SYS.log -----
+4621t [SYS] [INFO] Error initializing SST
+4632t [SYS] [INFO] Error initializing BARO
+
+
+----- 0010_TASK.csv -----
+220t,errorManager,Blocked,30,30,389
+
+
+----- 0011_TASK.csv -----
+213t,errorManager,Blocked,30,30,389
+
+
+----- 0012_SYS.log -----
+3881t [SYS] [INFO] Error initializing SST
+3892t [SYS] [INFO] Error initializing BARO
+
+
+----- 0012_TASK.csv -----
+483t,errorManager,Blocked,30,30,389
+
+
+----- 0013_SYS.log -----
+3873t [SYS] [INFO] Error initializing SST
+3884t [SYS] [INFO] Error initializing BARO
+33796t [SYS] [ERROR] rebootctl reset 1. Source: 6
+
+
+----- 0013_TASK.csv -----
+474t,errorManager,Blocked,30,30,389
+
+
+----- 0014_SYS.log -----
+4612t [SYS] [INFO] Error initializing SST
+4623t [SYS] [INFO] Error initializing BARO
+
+
+----- 0014_TASK.csv -----
+212t,errorManager,Blocked,30,30,389
+
+
+----- 0015_TASK.csv -----
+213t,errorManager,Blocked,30,30,389
+
+
+----- 0016_SYS.log -----
+4874t [SYS] [INFO] Error initializing SST
+
+
+----- 0016_TASK.csv -----
+473t,errorManager,Blocked,30,30,389
+
+
+----- 0017_CFG.log -----
+188t [CFG] [ERROR] Invalid syscfg sha 4861FA73 52CD39AC
+188t [CFG] [ERROR] Unable to read config. Setting defaults and writing.
+
+
+----- 0017_SYS.log -----
+4683t [SYS] [INFO] Error initializing SST
+34608t [SYS] [ERROR] rebootctl reset 1. Source: 6
+
+
+----- 0017_TASK.csv -----
+283t,errorManager,Blocked,30,30,389
+
+
+----- 0018_TASK.csv -----
+213t,errorManager,Blocked,30,30,389
+
+
+----- 0019_SYS.log -----
+4616t [SYS] [INFO] Error initializing SST
+
+
+----- 0019_TASK.csv -----
+215t,errorManager,Blocked,30,30,389
+
+
+----- 0020_SYS.log -----
+4606t [SYS] [INFO] Error initializing SST
+
+
+----- 0021_SYS.log -----
+4605t [SYS] [INFO] Error initializing SST
+
+
+----- 0022_SYS.log -----
+4606t [SYS] [INFO] Error initializing SST
+
+
+----- 0023_SYS.log -----
+4614t [SYS] [INFO] Error initializing SST
+
+
+----- 0025_SYS.log -----
+2023-12-11T19:52:17.605Z [SYS] [INFO] Error initializing SST
+
+
+----- 0001_HDR.log -----
+2023-12-12T09:00:02.121Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T11:35:02.605Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T11:40:02.625Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T11:45:02.644Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T11:50:02.796Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T11:55:02.675Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:00:02.691Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:05:02.695Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:10:02.710Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:15:02.726Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:20:02.871Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:25:02.761Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:30:02.777Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:35:02.792Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:40:02.808Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:45:02.828Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:50:02.972Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T12:55:02.859Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:00:02.875Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:05:02.894Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:10:02.910Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:15:02.925Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:20:03.070Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:25:02.960Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:30:02.972Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:35:02.988Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:40:03.007Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:45:03.019Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:50:03.171Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T13:55:03.058Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:00:03.070Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:05:03.085Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:10:03.101Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:15:03.113Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:20:03.261Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:25:03.152Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:30:03.167Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:35:03.179Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:40:03.199Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:45:03.214Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:50:03.363Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:54:59.234Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T14:59:59.253Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:04:59.269Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:09:59.285Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:14:59.300Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:19:59.445Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:24:59.332Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:29:59.347Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:34:59.371Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:39:59.378Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:44:59.394Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:49:59.546Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:54:59.425Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T15:59:59.449Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:04:59.464Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:09:59.476Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:14:59.488Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:19:59.632Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:24:59.519Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:29:59.535Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:34:59.566Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:39:59.566Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:44:59.582Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:49:59.730Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:54:59.617Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T16:59:59.628Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:04:59.648Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:09:59.667Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:14:59.695Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:19:59.824Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:24:59.714Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:29:59.726Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:34:59.742Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:39:59.757Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:44:59.777Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:49:59.929Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:54:59.800Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T17:59:59.812Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:04:59.832Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:09:59.847Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:14:59.863Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:20:00.007Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:24:59.839Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:29:59.855Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:34:59.867Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:39:59.890Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:44:59.906Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:50:00.054Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:54:59.902Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T18:59:59.906Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T19:04:59.925Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T19:09:59.941Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T19:14:59.957Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T19:20:00.097Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T19:24:59.984Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T19:30:00.003Z [HDR] [ERROR] Unable to add HDR message to MS queue
+2023-12-12T19:35:00.023Z [HDR] [ERROR] Unable to add HDR message to MS queue
+
+
+----- 0001_MS.log -----
+2023-12-12T04:21:00.945Z [MS] [ERROR] Failed to get the notecard status.
+2023-12-12T09:00:02.121Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T09:00:02.121Z [MS] [INFO] Error adding message to queue.
+2023-12-12T11:35:02.605Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T11:35:02.605Z [MS] [INFO] Error adding message to queue.
+2023-12-12T11:40:02.625Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T11:40:02.625Z [MS] [INFO] Error adding message to queue.
+2023-12-12T11:45:02.644Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T11:45:02.644Z [MS] [INFO] Error adding message to queue.
+2023-12-12T11:50:02.796Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T11:50:02.796Z [MS] [INFO] Error adding message to queue.
+2023-12-12T11:55:02.675Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T11:55:02.675Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:00:02.691Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:00:02.691Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:05:02.691Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:05:02.695Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:10:02.710Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:10:02.710Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:15:02.726Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:15:02.726Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:20:02.871Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:20:02.871Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:25:02.757Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:25:02.761Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:30:02.777Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:30:02.777Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:35:02.789Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:35:02.789Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:40:02.808Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:40:02.808Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:45:02.824Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:45:02.828Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:50:02.972Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:50:02.972Z [MS] [INFO] Error adding message to queue.
+2023-12-12T12:55:02.859Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T12:55:02.859Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:00:02.875Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:00:02.875Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:05:02.894Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:05:02.894Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:10:02.910Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:10:02.910Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:15:02.925Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:15:02.925Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:20:03.070Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:20:03.070Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:25:02.960Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:25:02.960Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:30:02.972Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:30:02.972Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:35:02.988Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:35:02.988Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:40:03.007Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:40:03.007Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:45:03.019Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:45:03.019Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:50:03.171Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:50:03.171Z [MS] [INFO] Error adding message to queue.
+2023-12-12T13:55:03.054Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T13:55:03.054Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:00:03.070Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:00:03.070Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:05:03.085Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:05:03.085Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:10:03.101Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:10:03.101Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:15:03.113Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:15:03.113Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:20:03.261Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:20:03.261Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:25:03.152Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:25:03.152Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:30:03.167Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:30:03.167Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:35:03.179Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:35:03.179Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:40:03.199Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:40:03.199Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:45:03.214Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:45:03.214Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:50:03.363Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:50:03.363Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:54:59.234Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:54:59.234Z [MS] [INFO] Error adding message to queue.
+2023-12-12T14:59:59.253Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T14:59:59.253Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:04:59.269Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:04:59.269Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:09:59.285Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:09:59.285Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:14:59.300Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:14:59.300Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:19:59.445Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:19:59.445Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:24:59.328Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:24:59.332Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:29:59.347Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:29:59.347Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:34:59.371Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:34:59.371Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:39:59.378Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:39:59.378Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:44:59.394Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:44:59.394Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:49:59.546Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:49:59.546Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:54:59.425Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:54:59.425Z [MS] [INFO] Error adding message to queue.
+2023-12-12T15:59:59.449Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T15:59:59.449Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:04:59.464Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:04:59.464Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:09:59.476Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:09:59.476Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:14:59.488Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:14:59.488Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:19:59.632Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:19:59.632Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:24:59.519Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:24:59.519Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:29:59.535Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:29:59.535Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:34:59.566Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:34:59.566Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:39:59.566Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:39:59.566Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:44:59.582Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:44:59.582Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:49:59.730Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:49:59.730Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:54:59.617Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:54:59.617Z [MS] [INFO] Error adding message to queue.
+2023-12-12T16:59:59.628Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T16:59:59.628Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:04:59.648Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:04:59.648Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:09:59.667Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:09:59.667Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:14:59.695Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:14:59.695Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:19:59.824Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:19:59.824Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:24:59.714Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:24:59.714Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:29:59.726Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:29:59.726Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:34:59.742Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:34:59.742Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:39:59.757Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:39:59.757Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:44:59.777Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:44:59.777Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:49:59.929Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:49:59.929Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:54:59.800Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:54:59.800Z [MS] [INFO] Error adding message to queue.
+2023-12-12T17:59:59.812Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T17:59:59.812Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:04:59.832Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:04:59.832Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:09:59.847Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:09:59.847Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:14:59.863Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:14:59.863Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:20:00.007Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:20:00.007Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:24:59.839Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:24:59.839Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:29:59.855Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:29:59.855Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:34:59.867Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:34:59.867Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:39:59.890Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:39:59.890Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:44:59.906Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:44:59.906Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:50:00.050Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:50:00.050Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:54:59.902Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:54:59.902Z [MS] [INFO] Error adding message to queue.
+2023-12-12T18:59:59.906Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T18:59:59.906Z [MS] [INFO] Error adding message to queue.
+2023-12-12T19:04:59.925Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T19:04:59.925Z [MS] [INFO] Error adding message to queue.
+2023-12-12T19:09:59.941Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T19:09:59.941Z [MS] [INFO] Error adding message to queue.
+2023-12-12T19:14:59.953Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T19:14:59.957Z [MS] [INFO] Error adding message to queue.
+2023-12-12T19:20:00.097Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T19:20:00.097Z [MS] [INFO] Error adding message to queue.
+2023-12-12T19:24:59.984Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T19:24:59.984Z [MS] [INFO] Error adding message to queue.
+2023-12-12T19:30:00.003Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T19:30:00.003Z [MS] [INFO] Error adding message to queue.
+2023-12-12T19:35:00.023Z [MS] [ERROR] Queue MS_Q_CELLULAR_ONLY is full.
+2023-12-12T19:35:00.023Z [MS] [INFO] Error adding message to queue.
+
+
+----- 0001_NCD.log -----
+2023-12-12T04:21:00.945Z [NCD] [ERROR] card.status did not return data.
+2023-12-12T04:22:31.929Z [NCD] [ERROR] Asked for status but no response.
+
+
